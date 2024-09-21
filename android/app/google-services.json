@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "172279890522",
+    "project_id": "quickfixapp-b6b4f",
+    "storage_bucket": "quickfixapp-b6b4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172279890522:android:fbf84b24bc0a7c47ebce63",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_GPN0vQrwS_ANTr22lZ9UrL5o7BdxqcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
